@@ -1,0 +1,199 @@
+{
+  "success": true,
+  "status": 200,
+  "data": {
+    "notificationList": [
+      {
+        "notification": {
+          "title": "inlet",
+          "body": "Reg. No. :323 D3 \ninlet:3.712 Ltrs \nCurrent Fuel Level:176.964 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb70298259c10d76b1df92",
+        "reportedAt": "2023-02-14T11:27:37.896Z",
+        "timestamp": "1676374053",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "inlet",
+        "quantity": "3.712"
+      },
+      {
+        "notification": {
+          "title": "theft",
+          "body": "Reg. No. :323 D3 \ntheft:4.514 Ltrs \nCurrent Fuel Level:173.252 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb6faf8259c10d76b1df90",
+        "reportedAt": "2023-02-14T11:25:35.599Z",
+        "timestamp": "1676373933",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "theft",
+        "quantity": "4.514"
+      },
+      {
+        "notification": {
+          "title": "theft",
+          "body": "Reg. No. :323 D3 \ntheft:2.859 Ltrs \nCurrent Fuel Level:178.319 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb6e4c8259c10d76b1df8a",
+        "reportedAt": "2023-02-14T11:19:40.891Z",
+        "timestamp": "1676373573",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "theft",
+        "quantity": "2.859"
+      },
+      {
+        "notification": {
+          "title": "theft",
+          "body": "Reg. No. :323 D3 \ntheft:2.458 Ltrs \nCurrent Fuel Level:178.419 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb6c668259c10d76b1df85",
+        "reportedAt": "2023-02-14T11:11:34.836Z",
+        "timestamp": "1676373093",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "theft",
+        "quantity": "2.458"
+      },
+      {
+        "notification": {
+          "title": "theft",
+          "body": "Reg. No. :323 D3 \ntheft:5.066 Ltrs \nCurrent Fuel Level:180.275 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb6a8a8259c10d76b1df80",
+        "reportedAt": "2023-02-14T11:03:38.834Z",
+        "timestamp": "1676372613",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "theft",
+        "quantity": "5.066"
+      },
+      {
+        "notification": {
+          "title": "inlet",
+          "body": "Reg. No. :323 D3 \ninlet:2.207 Ltrs \nCurrent Fuel Level:185.718 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb68ae8259c10d76b1df7a",
+        "reportedAt": "2023-02-14T10:55:42.590Z",
+        "timestamp": "1676372133",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "inlet",
+        "quantity": "2.207"
+      },
+      {
+        "notification": {
+          "title": "theft",
+          "body": "Reg. No. :323 D3 \ntheft:3.461 Ltrs \nCurrent Fuel Level:184.539 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb66c88259c10d76b1df76",
+        "reportedAt": "2023-02-14T10:47:36.594Z",
+        "timestamp": "1676371653",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "theft",
+        "quantity": "3.461"
+      },
+      {
+        "notification": {
+          "title": "inlet",
+          "body": "Reg. No. :323 D3 \ninlet:3.912 Ltrs \nCurrent Fuel Level:188.2 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb65d58259c10d76b1df73",
+        "reportedAt": "2023-02-14T10:43:33.063Z",
+        "timestamp": "1676371413",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "inlet",
+        "quantity": "3.912"
+      },
+      {
+        "notification": {
+          "title": "theft",
+          "body": "Reg. No. :323 D3 \ntheft:3.887 Ltrs \nCurrent Fuel Level:184.288 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb65648259c10d76b1df71",
+        "reportedAt": "2023-02-14T10:41:40.903Z",
+        "timestamp": "1676371293",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "theft",
+        "quantity": "3.887"
+      },
+      {
+        "notification": {
+          "title": "theft",
+          "body": "Reg. No. :323 D3 \ntheft:4.314 Ltrs \nCurrent Fuel Level:191.21 Ltrs"
+        },
+        "isRouteAlert": false,
+        "isRead": false,
+        "_id": "63eb5fbe8259c10d76b1df62",
+        "reportedAt": "2023-02-14T10:17:34.924Z",
+        "timestamp": "1676369853",
+        "vehicleId": "63e9f28a0779931c1673eccc",
+        "orgId": "632d3f7af9959a4f833b504b",
+        "type": "FuelAlert",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "regNumber": "323 D3",
+        "title": "theft",
+        "quantity": "4.314"
+      }
+    ]
+  },
+  "requestId": "63ec74de7e2dfb0a3204a1e4"
+}
